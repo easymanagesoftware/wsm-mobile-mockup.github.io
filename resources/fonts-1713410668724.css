@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "Calibri_0.0.0_system";
+  src: url("../fonts/Calibri-Regular.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Roboto_0.0.0_system";
+  src: url("../fonts/Roboto-Regular.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Roboto_0.0.0_system";
+  src: url("../fonts/Roboto-Medium.ttf");
+  font-weight: 500; 
+}
+@font-face {
+  font-family: "Roboto_0.0.0_system";
+  src: url("../fonts/Roboto-Bold.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Candara_0.0.0_system";
+  src: url("../fonts/Candara-Bold.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Candara_0.0.0_system";
+  src: url("../fonts/Candara-Regular.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Roboto_30.0.0_google";
+  src: url("../fonts/Roboto-Regular_30.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Roboto_30.0.0_google";
+  src: url("../fonts/Roboto-Black_30.0.0_google.ttf");
+  font-weight: 900; 
+}
+@font-face {
+  font-family: "Wingdings 2_0.0.0_system";
+  src: url("../fonts/Wingdings_2-Regular.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Calibri_0.0.0_system";
+  src: url("../fonts/Calibri-Light.ttf");
+  font-weight: 300; 
+}
